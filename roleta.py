@@ -161,6 +161,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 async def roleta(ctx):
     ID_DO_CANAL = 1477809812187119750 
     canal = await bot.fetch_channel(ID_DO_CANAL)
+    
     # Sorteios numéricos na hora
     f_num = randint(1, 200)
     q_num = randint(1, 1000)
@@ -179,8 +180,10 @@ async def roleta(ctx):
     embed.add_field(name="🏃 Agilidade", value=f"{obter_agilidade(a_num)} ({a_num})", inline=True)
     embed.add_field(name="🎯 Missão", value=choice(chamar_missao()), inline=False)
     
-    await ctx.send(embed=embed)
-
+    # MANDANDO NO CANAL ESPECÍFICO:
+    await canal.send(embed=embed)
+    # AVISANDO NO CHAT QUE FOI ENVIADO:
+    await ctx.send(f"✅ {ctx.author.mention}, sua ficha foi enviada em {canal.mention}!")
 # --- WEB SERVER PARA O RENDER (Keep Alive) ---
 app = Flask('')
 @app.route('/')
@@ -199,4 +202,5 @@ if __name__ == "__main__":
     # O Token deve ser colocado nas variáveis de ambiente do Render
 
     bot.run(os.getenv('DISCORD_TOKEN'))
+
 
