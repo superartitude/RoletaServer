@@ -107,8 +107,20 @@ def obter_forca(nivel):
         return "Titã"
     if nivel <= 200:
         return "Esmagador de montanhas"
-    
-sorteio_forca = randint(1, 200)
+    if nivel <= 300:
+        return "Sol pequeno"
+    if nivel <= 500:
+        return "Sistema solar"
+    if nivel <= 600:
+        return "Galáxia de andrômeda"
+    if nivel <= 800:
+        return "Multiversal baixo"
+    if nivel <= 900:
+        return "Multiversal médio"
+    if nivel <= 1000:
+        return "Grande multiverso"
+       
+sorteio_forca = randint(1, 1200)
 pegarforca = obter_forca(sorteio_forca)
 
 def obter_QI(nivel):
@@ -128,8 +140,12 @@ def obter_QI(nivel):
         return "Ancião| Pode atravessar paredes e acelerar deterioramento de materiais."
     if nivel <= 1000:
         return "Entidade da sabedoria| Manipulação detalhada de tudo ao redor, e força gigante em telepatia."
+    if nivel <= 1500:
+        return "Oniciente"
+    if nivel <= 1800:
+        return "Mega oniciencia"
 
-sorteio_Qi = randint(1,1000)
+sorteio_Qi = randint(1,1800)
 pegarQi = obter_QI(sorteio_Qi)
 
 def obter_agilidade(valor):
@@ -149,8 +165,12 @@ def obter_agilidade(valor):
         return "Vulto"
     if valor <= 90:
         return "Consegue viajar entre o espaço e o tempo."
+    if valor <= 100:
+        return "Força de aceleração (flash)
+    if valor <= 200:
+        return "onipresença"
     
-sorteio_agilidade = randint(1,90)
+sorteio_agilidade = randint(1,200)
 pegarAgil = obter_agilidade(sorteio_agilidade)
 
 intents = discord.Intents.default()
@@ -163,9 +183,9 @@ async def roleta(ctx):
     canal = await bot.fetch_channel(ID_DO_CANAL)
     
     # Sorteios numéricos na hora
-    f_num = randint(1, 200)
-    q_num = randint(1, 1000)
-    a_num = randint(1, 90)
+    f_num = randint(1, 1200)
+    q_num = randint(1, 1800)
+    a_num = randint(1, 200)
     
     embed = discord.Embed(title="🎲 Nova Ficha de Personagem", color=discord.Color.blue())
     embed.add_field(name="🧬 Raça", value=choice(chamar_racas()), inline=True)
@@ -202,5 +222,6 @@ if __name__ == "__main__":
     # O Token deve ser colocado nas variáveis de ambiente do Render
 
     bot.run(os.getenv('DISCORD_TOKEN'))
+
 
 
