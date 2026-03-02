@@ -160,7 +160,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 @bot.command(name='roleta')
 async def roleta(ctx):
     ID_DO_CANAL = 1477809812187119750 
-    canal = bot.get_channel(ID_DO_CANAL)
+    canal = await bot.fetch_channel(ID_DO_CANAL)
     # Sorteios numéricos na hora
     f_num = randint(1, 200)
     q_num = randint(1, 1000)
@@ -199,3 +199,4 @@ if __name__ == "__main__":
     # O Token deve ser colocado nas variáveis de ambiente do Render
 
     bot.run(os.getenv('DISCORD_TOKEN'))
+
