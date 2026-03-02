@@ -1,0 +1,207 @@
+Espada Curta
+Espada Longa
+Espada Larga
+Espada Bastarda
+Montante
+Mandoble
+Cimitarra
+Alfange
+Sabre
+Rapieira
+Florete
+Adaga
+Punhal
+Estilete
+Faca de Caça
+Kukri
+Katana
+Wakizashi
+Nodachi
+Tanto
+Naginata
+Foice
+Alfange
+Machado de Mão
+Machado de Batalha
+Machado de Guerra
+Machado de Duas Mãos
+Labrys
+Alabarda
+Lança
+Pique
+Tridente
+Glaive
+Partasana
+Guisarme
+Maça
+Maça de Armas
+Mangual
+Mangual Pesado
+Martelo de Guerra
+Marreta
+Malho
+Picareta de Mineração
+Picareta de Guerra
+Alavanca
+Bastão
+Cajado
+Bordão
+Nunchaku
+Sai
+Tonfa
+Kama
+Clava
+Porrete
+Tacape
+Chicote
+Chicote de Correntes
+Chicote de Espinhos
+Garras de Metal
+Soco-Inglês
+Manopla de Combate
+Cestus
+Mangual de Estrela
+Estrela da Manhã
+Mangual de Três Pontas
+Foice Longa
+Foice Curta
+Cutelo
+Canivete
+Lâmina Oculta
+Adaga de Aparar
+Espada Curvada
+Espada Dentada
+Espada de Gancho
+Espada de Vidro
+Espada de Bronze
+Espada de Ferro
+Espada de Aço
+Espada de Prata
+Arco Curto
+Arco Longo
+Arco Composto
+Arco Recurvo
+Besta Leve
+Besta Pesada
+Besta de Mão
+Besta de Repetição
+Estilingue
+Funda
+Zarabatana
+Azagaia
+Dardo
+Faca de Arremesso
+Machado de Arremesso
+Shuriken
+Kunai
+Boomerang
+Pilum
+Lança-Chamas
+Mosquete
+Bacamarte
+Pistola de Pederneira
+Revólver
+Rifle de Caça
+Carabina
+Canhão de Mão
+Besta Gigante
+Balestra
+Arco de Pulso
+Arco de Energia
+Besta de Projéteis Mágicos
+Cajado de Fogo
+Cajado de Gelo
+Cajado de Raios
+Cajado de Luz
+Cajado de Sombras
+Cajado de Cura
+Varinha Mágica
+Varinha de Condão
+Orbe de Cristal
+Cetro Real
+Cetro Arcano
+Tomo de Feitiços
+Grimório
+Talismã
+Pergaminho de Combate
+Lanterna de Almas
+Incensário de Guerra
+Carrilhão Místico
+Flauta de Encantamento
+Harpa de Batalha
+Tambor de Guerra
+Corneta de Comando
+Escudo de Madeira
+Escudo de Ferro
+Escudo de Torre
+Escudo de Punho
+Escudo Espinhoso
+Escudo Espelhado
+Escudo Arcano
+Lâmina Circular
+Chakram
+Shuriken Gigante
+Kusarigama
+Foice com Corrente
+Machado com Corrente
+Âncora de Batalha
+Pá de Combate
+Picareta de Gelo
+Martelo de Ferreiro
+Maçarico Arcano
+Luva de Alquimia
+Braço Mecânico
+Canhão de Pulso
+Lança-Raios
+Besta de Vapor
+Lâmina Vibratória
+Espada de Plasma
+Sabre de Luz
+Chicote de Energia
+Martelo Gravitacional
+Machadinha de Arremesso
+Estrepes
+Granada de Fumaça
+Bomba de Alquimia
+Frasco de Ácido
+Fogo Grego
+Rede de Captura
+Laço
+Boleadeira
+Lança de Justa
+Marreta de Demolição
+Malho de Pedra
+Clava de Ossos
+Clava com Pregos
+Bastão Elétrico
+Lâmina de Obsidiana
+Adaga de Ritual
+Espada de Cerimônia
+Machado de Execução
+Lâmina de Prata
+Espada de Ouro
+Arco de Marfim
+Besta de Osso
+Escudo de Couro
+Mangual de Fogo
+Espada Flamejante
+Lâmina Congelante
+Lança de Relâmpagos
+Machado Terremoto
+Martelo de Trovão
+Adaga de Veneno
+Arco de Vento
+Besta de Sombras
+Cajado de Terra
+Cetro de Cristal
+Espada de Diamante
+Lâmina de Esmeralda
+Machado de Rubi
+Foice de Safira
+Tridente das Marés
+Lança Solar
+Adaga Lunar
+Espada Estelar
+Martelo de Cometa
+Lâmina do Caos
+Espada da Ordem

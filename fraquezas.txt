@@ -1,0 +1,307 @@
+Medo de Escuro
+Medo de Altura
+Medo de Água
+Medo de Fogo
+Medo de Sangue
+Medo de Aranhas
+Medo de Cobras
+Medo de Multidões
+Medo de Solidão
+Medo de Espaços Fechados
+Medo de Espaços Abertos
+Medo de Ruídos Altos
+Medo de Relâmpagos
+Medo de Mortos-Vivos
+Medo de Magia
+Medo de Tecnologia
+Medo de Animais
+Medo de Palhaços
+Medo de Espelhos
+Medo de Médicos
+Ganância Excessiva
+Arrogância
+Orgulho Ferido
+Curiosidade Mórbida
+Preguiça Extrema
+Gula Insaciável
+Ira Incontrolável
+Inveja Obsessiva
+Luxúria
+Covardia
+Timidez Paralisante
+Gagueira sob Estresse
+Amnésia Parcial
+Sonambulismo
+Pesadelos Recorrentes
+Insônia
+Fadiga Crônica
+Visão Ruim
+Audição Ruim
+Olfato Hipersensível
+Paladar Exigente
+Alergia a Pólen
+Alergia a Animais
+Alergia a Metais
+Alergia a Magia
+Alergia a Álcool
+Intolerância a Sol
+Sensibilidade à Luz
+Sensibilidade ao Som
+Ossos Frágeis
+Sangramento Fácil
+Cicatrização Lenta
+Metabolismo Lento
+Corpo Pesado
+Falta de Equilíbrio
+Mãos Trêmulas
+Pé Chato
+Coxo
+Cicatriz Dolorosa
+Membro Mecânico Instável
+Marca de Maldição
+Tatuagem Reveladora
+Aura Sinistra
+Cheiro Forte
+Voz Irritante
+Riso Nervoso
+Tique Nervoso
+Obsessão por Limpeza
+Obsessão por Ordem
+Acumulador de Lixo
+Gastador Compulsivo
+Cleptomania
+Mentiroso Patológico
+Excesso de Honestidade
+Credulidade
+Teimosia
+Indecisão
+Pessimismo
+Otimismo Ingênuo
+Fanatismo Religioso
+Ceticismo Absoluto
+Vício em Jogos
+Vício em Poções
+Vício em Ouro
+Vício em Fama
+Fome Constante
+Sede Insaciável
+Frio Constante
+Calor Excessivo
+Pele Sensível
+Unhas Quebradiças
+Cabelo Chamativo
+Baixa Estatura
+Altura Excessiva
+Peso em Excesso
+Magreza Extrema
+Falta de Fôlego
+Asma
+Coração Fraco
+Pulmão Sensível
+Alucinações Leves
+Amigo Imaginário
+Vozes na Cabeça
+Dupla Personalidade
+Narcisismo
+Complexo de Inferioridade
+Complexo de Herói
+Complexo de Mártir
+Autocrítica Severa
+Impulsividade
+Procrastinação
+Desorganização
+Esquecimento
+Desorientação Espacial
+Má Caligrafia
+Analfabetismo
+Dificuldade com Números
+Medo de Cavalos
+Medo de Barcos
+Medo de Estranhos
+Medo de Críticas
+Medo de Falhar
+Medo de Sucesso
+Medo de Compromisso
+Medo do Futuro
+Medo do Passado
+Nostalgia Depressiva
+Melancolia
+Ansiedade
+Pânico Repentino
+Fobia Social
+Dependência de Outros
+Excesso de Confiança
+Crueldade Gratuita
+Sadismo
+Masoquismo
+Misantropia
+Ódio a Nobres
+Ódio a Pobres
+Preconceito Arcano
+Preconceito Racial
+Superstição Idiota
+Seguidor de Regras
+Quebrador de Regras
+Rebelde sem Causa
+Lealdade Cega
+Traição Fácil
+Egoísmo
+Altruísmo Suicida
+Pacifismo Radical
+Sede de Sangue
+Instinto Assassino
+Compaixão Excessiva
+Empatia Dolorosa
+Frieza Emocional
+Rosto Inexpressivo
+Olhar Assustador
+Sorriso Sinistro
+Suor Frio
+Tremores
+Desmaio Fácil
+Vertigem
+Enjoo em Viagens
+Claustrofobia
+Agorafobia
+Piromania
+Hidrofobia
+Cinofobia
+Felinofobia
+Entomofobia
+Ornitofobia
+Ictiofobia
+Necrofobia
+Demonofobia
+Astrafobia
+Coulrofobia
+Acluofobia
+Xenofobia
+Misofobia
+Hipocondria
+Mitomania
+Monomania
+Onicofagia
+Dermatilomania
+Tricotilomania
+Vontade Fraca
+Alma Fraturada
+Sorte Negativa
+Karma Ruim
+Destino Trágico
+Profecia Maldita
+Inimigo Poderoso
+Dívida de Jogo
+Família Problemática
+Nome Sujo
+Cartaz de Procurado
+Exílio
+Identidade Roubada
+Segredo Obscuro
+Objeto Amaldiçoado
+Vínculo Espiritual Obsessivo
+Assombrado por Fantasma
+Perseguido por Culto
+Juramento de Silêncio
+Juramento de Pobreza
+Juramento de Castidade
+Juramento de Vingança
+Código de Honra Rígido
+Tabu Alimentar
+Sono Pesado demais
+Despertar Lento
+Reação Lenta
+Reflexo Lento
+Lentidão Mental
+Dificuldade de Aprendizado
+Teimosia Infantil
+Comportamento Errático
+Humor Volátil
+Melodramático
+Dramático
+Sarcasmo Excessivo
+Grosseria
+Arrogância Intelectual
+Ignorância Orgulhosa
+Teoria da Conspiração
+Falta de Higiene
+Perfeccionismo
+Pressa Constante
+Devagar Quase Parando
+Voz Muito Baixa
+Voz Muito Alta
+Risada Escandalosa
+Olhar Fixo
+Desvio de Olhar
+Postura Ruim
+Andar Barulhento
+Atrapalhado
+Desastrado
+Destrutivo sem Querer
+Mão de Alface
+Falta de Pontaria
+Nojo de Insetos
+Nojo de Sujeira
+Nojo de Sangue
+Intolerância a Ruído
+Intolerância a Cheiro
+Intolerância a Toque
+Medo de Ser Tocado
+Medo de Intimidade
+Medo de Abandonar
+Medo de Perder Objetos
+Apego Material
+Desapego Total
+Niilismo
+Melancolia Profunda
+Euforia Inexplicável
+Mudança de Humor
+Distração Fácil
+Foco Excessivo
+Teimosia de Mula
+Cabeça Dura
+Coração de Pedra
+Sensibilidade à Dor
+Baixa Tolerância à Dor
+Medo de Agulhas
+Medo de Veneno
+Medo de Armas
+Medo de Armaduras
+Desconforto com Roupas
+Desconforto com Calçados
+Fraqueza à Luz Solar
+Fraqueza à Lua Cheia
+Fraqueza à Prata
+Fraqueza ao Ferro
+Fraqueza ao Sal
+Fraqueza ao Alho
+Fraqueza à Água Benta
+Fraqueza a Símbolos Sagrados
+Fraqueza a Orações
+Fraqueza a Insultos
+Fraqueza a Elogios
+Narcisismo Físico
+Vaidade Extrema
+Medo de Envelhecer
+Medo de Ficar Feio
+Medo de Ficar Pobre
+Medo de Ficar Doente
+Dependência de Remédios
+Dependência de Magia
+Inabilidade de Nadar
+Inabilidade de Escalar
+Inabilidade de Correr
+Inabilidade de Montar
+Inabilidade de Cozinhar
+Inabilidade de Ler Mapas
+Inabilidade de Mentir
+Inabilidade de Guardar Segredo
+Falta de Senso de Humor
+Levar Tudo ao Pé da Letra
+Literalismo
+Paranoia
+Perseguição Imaginária
+Mania de Grandeza
+Complexo de Perseguição
+Hostilidade Ativa
+Desconfiança Sistêmica
+Cinismo

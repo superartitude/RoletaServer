@@ -1,0 +1,196 @@
+Sequestrar Diplomata
+Falsificar Testamento
+Arruinar Reputação de Nobre
+Seduzir Herdeiro
+Organizar Golpe de Estado
+Plantar Alucinógeno na Comida
+Criar Religião Falsa
+Destruir Evidências de Crime
+Incriminar Inocente
+Substituir Rei por Transmorfo
+Chantajear Juiz
+Infiltrar-se em Sonho
+Apagar Memória de Testemunha
+Roubar Identidade de General
+Causar Pânico na Cidade
+Boicotar Espetáculo
+Espalhar Boato Falso
+Incitar Revolta Popular
+Organizar Greve Geral
+Sabotar Votação
+Descobrir Fraqueza de Vampiro
+Mapear Medos de um Inimigo
+Observar Rotina de Alvo
+Fotografar Cena Incriminadora
+Gravar Conversa Secreta
+Interceptar Mensageiro Etéreo
+Hackear Golem de Dados
+Decifrar Linguagem Esquecida
+Traduzir Gritos de Agonia
+Sobreviver em Dimensão de Sombras
+Escapar de Prisão Psíquica
+Resistir a Tortura Mental
+Atravessar Deserto de Espelhos
+Cruzar Mar de Sangue Sem Barco
+Escalar Montanha de Carne
+Caminhar Sobre Campo Minado de Magia
+Fugir de Caçador Imortal
+Esconder-se de Olho que Tudo Vê
+Silenciar Consciência Culpada
+Limpar Mancha de Sangue que Não Sai
+Enterrar Segredo Vivo
+Coletar Lágrimas de Órfão
+Extrair Essência de Agonia
+Comprar Alma de Arrependido
+Vender Felicidade Engarrafada
+Leiloar Artefato Amaldiçoado
+Trocar Destino com Mendigo
+Apostar Coração em Jogo de Cartas
+Pagar Dívida de Sangue
+Negociar com Morte
+Convencer Fantasma a Partir
+Acalmar Fera Interior
+Controlar Mutação Genética
+Impedir Colapso Nervoso
+Mediar Briga de Deuses
+Organizar Enterro Real
+Preparar Banquete para Canibais
+Disfarçar-se de Estátua
+Passar Noite em Sanatório Assombrado
+Investigar necrotério
+Capturar sombra fugitiva
+Devolver sombra ao dono
+Costurar alma rasgada
+Consertar relógio do destino
+Limpar vidraças de torre infinita
+Polir dentes de dragão adormecido
+Contar todos os grãos de areia
+Catalogar insetos de outra dimensão
+Plantar semente de discórdia
+Colher frutos do arrependimento
+Regar planta carnívora gigante
+Podar labirinto vivo
+Amestrar pesadelo
+Domar tempestade em garrafa
+Pescar segredos no mar do esquecimento
+Nadar em piscina de mercúrio
+Mergulhar em poço de petróleo vivo
+Esculpir rosto em montanha
+Pintar afresco com sangue de mártir
+Escrever poema que mata quem lê
+Tocar música que desintegra objetos
+Dançar com a morte sem errar o passo
+Ganhar debate com esfinge
+Enganar diabo em contrato
+Roubar beijo de rainha fada
+Casar-se com monstro para selar paz
+Adotar criatura abissal
+Cuidar de ovo de fênix
+Alimentar besta no porão
+Limpar chiqueiro de porcos demoníacos
+Varrer cinzas de cidade queimada
+Reconstruir castelo de cartas gigante
+Equilibrar-se em corda bamba sobre vulcão
+Malabarismo com granadas
+Testar poção desconhecida
+Ser cobaia de alquimista louco
+Entregar órgãos para transplante místico
+Buscar cura para doença incurável
+Espalhar antídoto pelo ar
+Neutralizar radiação mágica
+Libertar escravos mentais
+Quebrar correntes invisíveis
+Abrir algemas de espírito
+Curar trauma de guerra
+Reencontrar infância perdida
+Visitar túmulo de si mesmo em outra vida
+Conversar com versão futura de si
+Matar versão pastada de si
+Impedir paradoxo temporal
+Consertar linha do tempo
+Apagar pessoa da história
+Escrever nome no livro do destino
+Riscar inimigo da existência
+Criar nova cor
+Inventar novo pecado
+Descobrir oitavo sentido
+Encontrar o que nunca foi perdido
+Perder o que é impossível tirar
+Dar voz a quem não fala
+Ouvir o silêncio absoluto
+Olhar para o sol sem cegar
+Dormir por cem anos
+Acordar deus adormecido
+Manter chama eterna acesa
+Apagar última luz do universo
+Construir escada para o céu
+Atravessar o purgatório a pé
+Pedir perdão a quem já morreu
+Perdoar o imperdoável
+Esquecer o inesquecível
+Lembrar do que nunca aconteceu
+Viajar para o centro do nada
+Encontrar a borda do infinito
+Medir o peso de uma alma
+Contar batidas de coração de um planeta
+Ouvir respiração da floresta
+Sentir dor de uma pedra
+Falar com o vento
+Gritar no vácuo
+Chorar diamantes
+Rir da própria desgraça
+Fingir sanidade em hospício
+Comandar exército de cegos
+Guiar mudos em coral
+Liderar revolta de marionetes
+Cortar cordas de mestre de marionetes
+Ser o vilão de uma história mal contada
+Ser o herói de uma causa perdida
+Morrer por um estranho
+Viver por um inimigo
+Entregar o que mais ama
+Proteger o que mais odeia
+Destruir sua própria criação
+Salvar quem não quer ser salvo
+Condenar quem quer morrer
+Libertar o caos organizado
+Aprisionar a ordem caótica
+Mudar o curso de um rio de estrelas
+Apagar constelação
+Criar eclipse artificial
+Invocar chuva de rãs
+Transformar chumbo em ouro emocional
+Mudar sabor da água
+Fazer chover no deserto da alma
+Nevar no inferno pessoal
+Aquecer coração de gelo
+Esfriar fúria vulcânica
+Domesticar sombra selvagem
+Caçar reflexos em espelhos
+Quebrar o quarto muro
+Falar com o mestre do jogo
+Descobrir que é um personagem
+Mudar as regras do mundo
+Hackear a realidade
+Reescrever o código do universo
+Encontrar o bug na criação
+Explorar área não renderizada
+Sair dos limites do mapa
+Nadar no mar de dados
+Consertar erro na matriz
+Deletar vírus espiritual
+Instalar nova consciência
+Atualizar sistema de crenças
+Reiniciar o mundo
+Formatar a existência
+Salvar o progresso da humanidade
+Carregar vida anterior
+Jogar o jogo final
+Vencer a partida contra o nada
+Aceitar a derrota com dignidade
+Começar de novo do zero
+Encontrar o fim da lista
+Continuar onde tudo acaba
+Ser a última testemunha
+Fechar os olhos do universo
+Apagar a luz e sair

@@ -1,0 +1,334 @@
+Humano
+Humano do Norte
+Humano do Deserto
+Humano das Ilhas
+Humano das Montanhas
+Humano Imperial
+Humano Selvagem
+Alto Elfo
+Elfo da Floresta
+Elfo Negro
+Elfo da Lua
+Elfo do Sol
+Elfo das Estrelas
+Elfo do Mar
+Elfo de Sangue
+Elfo de Gelo
+Elfo de Fogo
+Elfo das Sombras
+Anão da Montanha
+Anão da Colina
+Anão de Ferro
+Anão de Gelo
+Anão do Caos
+Anão de Ouro
+Anão de Bronze
+Meio-Elfo
+Meio-Orc
+Meio-Anão
+Meio-Gigante
+Meio-Dragão
+Meio-Anjo
+Meio-Demônio
+Halfling
+Pequenino Robusto
+Pequenino Ágil
+Gnomo Inventor
+Gnomo da Floresta
+Gnomo das Gemas
+Draconato Vermelho
+Draconato Azul
+Draconato Verde
+Draconato Branco
+Draconato Preto
+Draconato Dourado
+Draconato Prateado
+Draconato de Bronze
+Draconato de Cobre
+Draconato de Latão
+Draconato de Ametista
+Draconato de Safira
+Draconato de Esmeralda
+Povo-Gato
+Povo-Leão
+Povo-Tigre
+Povo-Pantera
+Povo-Lince
+Povo-Leopardo
+Povo-Guepardo
+Povo-Elefante
+Povo-Rinoceronte
+Povo-Hipopótamo
+Povo-Urso
+Povo-Urso-Polar
+Povo-Panda
+Povo-Lobo
+Povo-Raposa
+Povo-Chacal
+Povo-Hiena
+Povo-Cachorro
+Povo-Coelho
+Povo-Esquilo
+Povo-Rato
+Povo-Camundongo
+Povo-Touro
+Povo-Bode
+Povo-Carneiro
+Povo-Cavalo
+Povo-Zebra
+Povo-Veado
+Povo-Alce
+Povo-Lagarto
+Povo-Cobra
+Povo-Tartaruga
+Povo-Crocodilo
+Povo-Camaleão
+Povo-Sapo
+Povo-Salamandra
+Povo-Águia
+Povo-Falcão
+Povo-Coruja
+Povo-Corvo
+Povo-Papagaio
+Povo-Pavão
+Povo-Cisne
+Povo-Pato
+Povo-Morcego
+Povo-Tubarão
+Povo-Baleia
+Povo-Golfinho
+Povo-Polvo
+Povo-Lula
+Povo-Caranguejo
+Povo-Lagosta
+Povo-Peixe
+Povo-Água-Viva
+Povo-Aranha
+Povo-Escorpião
+Povo-Formiga
+Povo-Abelha
+Povo-Vespa
+Povo-Besouro
+Povo-Louva-a-Deus
+Povo-Borboleta
+Povo-Mariposa
+Povo-Libélula
+Povo-Cigarra
+Povo-Grilo
+Povo-Centopeia
+Povo-Vaga-Lume
+Povo-Cogumelo
+Povo-Árvore
+Povo-Flor
+Povo-Planta
+Povo-Cacto
+Povo-Videira
+Genasi do Fogo
+Genasi da Água
+Genasi do Ar
+Genasi da Terra
+Genasi do Gelo
+Genasi do Relâmpago
+Genasi do Metal
+Genasi do Vapor
+Genasi da Luz
+Genasi da Sombra
+Genasi do Cristal
+Genasi do Magma
+Anjo
+Arcanjo
+Querubim
+Serafim
+Cupido
+Demônio
+Diabo
+Diabrete
+Súcubo
+Íncubo
+Espírito do Fogo
+Espírito da Água
+Espírito do Vento
+Espírito da Rocha
+Fada
+Pixie
+Sprite
+Ninfa
+Dríade
+Nereida
+Oréade
+Sereia
+Tritão
+Oceânide
+Sátiro
+Fauno
+Centauro
+Minotauro
+Ciclope
+Ettin
+Ogro
+Troll
+Gigante das Nuvens
+Gigante do Fogo
+Gigante do Gelo
+Gigante da Tempestade
+Gigante da Rocha
+Gigante do Pântano
+Goblin
+Hobgoblin
+Bugbear
+Kobold
+Gremlin
+Leprechaun
+Esqueleto
+Zumbi
+Fantasma
+Espectro
+Aparição
+Vampiro
+Dhampir
+Lobisomem
+Homem-Urso
+Homem-Javali
+Homem-Tigre
+Múmia
+Carniçal
+Banshee
+Cavaleiro Sem Cabeça
+Espantalho Vivo
+Golem de Pedra
+Golem de Ferro
+Golem de Barro
+Golem de Madeira
+Golem de Carne
+Golem de Cristal
+Golem de Areia
+Estátua Viva
+Armadura Animada
+Robô
+Androide
+Ciborgue
+Forjado de Guerra
+Relógio Vivo
+Mutante
+Transmorfo
+Changelin
+Mimico Humanoide
+Medusa
+Harpia
+Lâmia
+Esfinge
+Naga
+Quimera Humanoide
+Manticora Humanoide
+Wyvern Humanoide
+Unicórnio Humanoide
+Pégaso Humanoide
+Gárgula
+Homúnculo
+Abissal
+Celestial
+Astral
+Viajante do Tempo
+Viajante dos Sonhos
+Homem do Espaço
+Marciano
+Ser de Luz
+Ser de Energia
+Ser de Plasma
+Ser de Vácuo
+Ser de Gravidade
+Ser Dimensional
+Ser do Espelho
+Ser de Papel
+Ser de Tinta
+Ser de Fumaça
+Ser de Névoa
+Ser de Lama
+Ser de Piche
+Ser de Mel
+Ser de Sal
+Ser de Açúcar
+Ser de Vidro
+Ser de Porcelana
+Ser de Ossos
+Ser de Sangue
+Ser de Espinhos
+Ser de Raízes
+Ser de Musgo
+Ser de Coral
+Ser de Pérola
+Ser de Obsidiana
+Ser de Ouro
+Ser de Prata
+Ser de Diamante
+Ser de Rubi
+Ser de Esmeralda
+Ser de Safira
+Ser de Âmbar
+Ser de Enxofre
+Ser de Mercúrio
+Ser de Ferro
+Ser de Bronze
+Ser de Latão
+Ser de Estanho
+Ser de Chumbo
+Ser de Urânio
+Ser de Magneto
+Ser de Som
+Ser de Música
+Ser de Silêncio
+Ser de Medo
+Ser de Alegria
+Ser de Ódio
+Ser de Amor
+Ser de Sorte
+Ser de Azar
+Ser do Passado
+Ser do Futuro
+Ser do Presente
+Ser da Ordem
+Ser do Caos
+Ser da Guerra
+Ser da Paz
+Ser do Equilíbrio
+Escolhido
+Amaldiçoado
+Abençoado
+Ressuscitado
+Clone
+Holograma
+Pensamento Vivo
+Desenho Animado
+Estátua de Cera
+Marionete
+Boneco de Pano
+Boneco de Ventríloquo
+Espantalho de Palha
+Homem de Lata
+Homem de Palha
+Homem de Pedra
+Neandertal
+Cavernoso
+Selvagem
+Civilizado
+Nobre
+Plebeu
+Exilado
+Prisioneiro
+Gladiador
+Erudito
+Místico
+Profeta
+Arauto
+Guardião
+Vigia
+Sentinela
+Caçador
+Coletor
+Pescador
+Ferreiro
+Alquimista
+Mago
+Guerreiro
+Ladino
+Clérigo

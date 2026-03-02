@@ -1,0 +1,266 @@
+Ataque Furtivo
+Sopro de Fogo
+Regeneração Celular
+Visão Noturna
+Teleporte de Curto Alcance
+Grito de Guerra
+Pele de Pedra
+Invisibilidade Temporária
+Cura pelas Mãos
+Manipulação de Sombras
+Escudo Arcano
+Sentido Aguçado
+Salto Duplo
+Esquiva Sobrenatural
+Golpe Atordoante
+Resistência ao Veneno
+Dominação Mental
+Invocar Criatura
+Controle de Elemento
+Voo Espiritual
+Aura de Coragem
+Sorte do Principiante
+Pulo do Gato
+Força Hercúlea
+Velocidade da Luz
+Tiro Preciso
+Disparo Múltiplo
+Chuva de Flechas
+Golpe Esmagador
+Tormenta de Espadas
+Lâmina Flamejante
+Toque Congelante
+Choque Estático
+Absorção de Mana
+Transmutação de Matéria
+Leitura de Mente
+Clarividência
+Passos Silenciosos
+Mimetismo
+Camuflagem Natural
+Mestre das Armadilhas
+Perícia em Venenos
+Alquimia Instantânea
+Berserker
+Meditação Profunda
+Proteção Divina
+Praga Maldita
+Petrificação
+Olhar Intimidador
+Voz de Comando
+Inspirar Aliados
+Canção de Ninar
+Dança das Lâminas
+Passo Etéreo
+Garras de Aço
+Sangue Ácido
+Respiração Aquática
+Comunicação com Animais
+Empatia com Plantas
+Rastreador Implacável
+Sentido de Perigo
+Reflexo de Espelho
+Corpo de Metal
+Explosão de Energia
+Raio Solar
+Eclipse de Trevas
+Terremoto Localizado
+Turbilhão de Vento
+Parede de Gelo
+Escudo de Espinhos
+Prisão de Raízes
+Teia de Aranha
+Salto Dimensional
+Clones de Sombras
+Troca de Corpo
+Possessão
+Exorcismo
+Bênção da Sorte
+Maldição do Azar
+Olho de Águia
+Faro de Lobo
+Audição Ultrassônica
+Soco Sônico
+Chute de Furacão
+Estilo Bêbado
+Defesa Absoluta
+Contra-Ataque Perfeito
+Desarme Veloz
+Especialista em Arremesso
+Maestria Rúnica
+Canto da Sereia
+Hipnose
+Ilusão de Ótica
+Projeção Astral
+Cura em Área
+Ressurreição Limitada
+Banimento
+Invocação de Mortos
+Controle de Gravidade
+Magnetismo
+Bio-Luminiscência
+Endurecer Musculatura
+Elasticidade
+Crescimento Gigante
+Encolhimento
+Toque de Midas
+Metamorfose Parcial
+Fúria da Natureza
+Domínio da Luz
+Manipulação de Sangue
+Corrente de Almas
+Vínculo de Dor
+Escudo de Espelhos
+Rajada Mística
+Buraco Negro Menor
+Pulso Eletromagnético
+Reparação Mecânica
+Sobrecarga
+Visão de Calor
+Visão de Raio-X
+Audição de Batimentos
+Identificação de Fraqueza
+Ponto Vital
+Golpe de Misericórdia
+Dança das Sombras
+Passo de Lince
+Equilíbrio Perfeito
+Imunidade Mental
+Sono Profundo
+Pesadelo Vivo
+Escrita Arcaica
+Decifrar Enigmas
+Lábia de Mercador
+Sedução Sobrenatural
+Presença Majestosa
+Frio Constante
+Calor Corporal
+Escama de Dragão
+Asas de Anjo
+Cauda Chicote
+Olhar de Basilisco
+Toque Elétrico
+Veneno Paralisante
+Esporos Alucinógenos
+Piroquinese
+Hidroquinese
+Geoquinese
+Aeroquinese
+Crioquinese
+Eletroquinese
+Fotoquinese
+Umbroquinese
+Telequinese
+Telepatia Coletiva
+Campo de Força
+Armadura Espiritual
+Arma Fantasmagórica
+Disparo de Energia
+Canhão de Alma
+Explosão Vital
+Sacrifício Heroico
+Último Suspiro
+Vontade Indomável
+Coração de Leão
+Mente de Vidro
+Olhar de Medusa
+Toque de Corrupção
+Purificação
+Santuário
+Nevoeiro de Guerra
+Escuridão Profunda
+Luz Cegante
+Flash de Luz
+Onda de Choque
+Vácuo de Ar
+Respiração de Fogo
+Sopro de Gelo
+Cuspe Ácido
+Picada Venenosa
+Abraço de Urso
+Carga de Touro
+Picada de Escorpião
+Casulo Protetor
+Casca Grossa
+Espinhos Corporais
+Sangue Quente
+Coração de Gelo
+Mãos de Fogo
+Pés Alados
+Manto de Névoa
+Corpo Amorfos
+Digestão Rápida
+Hibernação
+Memória Fotográfica
+Cálculo Rápido
+Intuição Infalível
+Sorte Maldita
+Proteção de Antepassados
+Guia Espiritual
+Caminhada nas Sombras
+Natação Veloz
+Cavar Túneis
+Sentido de Vibração
+Eco-Localização
+Pele Camaleão
+Sangue de Ferro
+Ossos de Diamante
+Coração Valente
+Alma de Guerreiro
+Punhos de Pedra
+Chute de Machado
+Lâmina Giratória
+Tiro na Cabeça
+Sniper Arcano
+Bomba de Fumaça
+Sinalizador de Luz
+Chamado de Montaria
+Domar Feras
+Encantar Objetos
+Quebrar Magia
+Roubo de Habilidade
+Cópia de Poder
+Adaptação Climática
+Sobrevivência Extrema
+Rastreio por Cheiro
+Sexto Sentido
+Aura de Medo
+Aura de Cura
+Aura de Lentidão
+Aura de Fogo
+Pisar em Ovos
+Leveza de Pena
+Queda Suave
+Imã de Metal
+Repulsão de Projéteis
+Mestre de Cerco
+Demolição
+Engenharia Reversa
+Reparo Express
+Gambiarra Mística
+Canalização de Raios
+Invocar Tempestade
+Invocar Vulcão
+Invocar Nevasca
+Invocar Enxame
+Invocar Meteorito
+Elo Mental
+Mestre de Marionetes
+Controle de Bonecos
+Transferência de Vida
+Roubo de Juventude
+Envelhecimento Precoce
+Regeneração Lenta
+Pele de Vidro
+Ossos de Cristal
+Passo de Gigante
+Golpe Sísmico
+Fenda Dimensional
+Portal de Viagem
+Âncora Temporal
+Rebobinar Tempo
+Pausa Temporal
+Aceleração Metabólica
+Visão do Futuro Próximo
+Memória de Antepassados
+Conhecimento Proibido

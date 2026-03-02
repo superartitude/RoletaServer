@@ -1,0 +1,316 @@
+Leal e Bom
+Leal e Neutro
+Leal e Mau
+Neutro e Bom
+Neutro Puro
+Neutro e Mau
+Caótico e Bom
+Caótico e Neutro
+Caótico e Mau
+Ordem Absoluta
+Caos Primordial
+Equilíbrio Perfeito
+Altruísta
+Egoísta
+Filantropo
+Misantropo
+Pacifista
+Belicista
+Diplomata
+Tirano
+Rebelde
+Anarquista
+Fanático
+Cético
+Santo
+Demoníaco
+Celestial
+Infernal
+Benevolente
+Malévolo
+Justo
+Injusto
+Misericordioso
+Cruel
+Honrado
+Desonrado
+Protetor
+Destruidor
+Criador
+Niilista
+Hedonista
+Estoico
+Asceta
+Espiritual
+Materialista
+Idealista
+Pragmático
+Visionário
+Conservador
+Progressista
+Tradicionalista
+Radical
+Pacificador
+Justiceiro
+Vigilante
+Carrasco
+Vingador
+Perdoador
+Generoso
+Ganancioso
+Humilde
+Orgulhoso
+Modesto
+Vaidoso
+Corajoso
+Covarde
+Audaz
+Cauteloso
+Temerário
+Prudente
+Sábio
+Tolo
+Erudito
+Ignorante
+Curioso
+Indiferente
+Empático
+Apático
+Sociável
+Solitário
+Extrovertido
+Introvertido
+Amigável
+Hostil
+Leal ao Grupo
+Traidor
+Fiel
+Infiel
+Confiável
+Suspeito
+Sincero
+Mentiroso
+Honesto
+Charlatão
+Nobre de Espírito
+Vil
+Heroico
+Vilanesco
+Anti-Herói
+Anti-Vilão
+Protetor da Natureza
+Predador
+Presa
+Simbionte
+Parasita
+Territorialista
+Nômade
+Sedentário
+Explorador
+Guardião
+Sentinela
+Observador
+Intervencionista
+Isolacionista
+Expansionista
+Defensor
+Invasor
+Libertador
+Opressor
+Pacificador Forçado
+Caótico Maluco
+Leal Cego
+Neutro Indeciso
+Oportunista
+Mercenário
+Idealista Cego
+Fanático Religioso
+Ateu Militante
+Místico
+Ocultista
+Purista
+Híbrido
+Mutante Moral
+Evolucionista
+Arcaico
+Modernista
+Futurista
+Retrogrado
+Civilizado
+Selvagem
+Primitivo
+Sofisticado
+Rude
+Educado
+Bárbaro
+Acadêmico
+Artístico
+Prático
+Teórico
+Analítico
+Intuitivo
+Lógico
+Emocional
+Racional
+Irracional
+Calculista
+Impulsivo
+Metódico
+Desorganizado
+Focado
+Distraído
+Disciplinado
+Indisciplinado
+Obediente
+Desobediente
+Submisso
+Dominante
+Tirânico
+Democrático
+Autocrítico
+Narcisista
+Masoquista Moral
+Sadista Moral
+Melancólico
+Eufórico
+Estável
+Instável
+Previsível
+Imprevisível
+Misterioso
+Transparente
+Enigmático
+Direto
+Sutil
+Manipulador
+Influenciável
+Líder
+Seguidor
+Solitário por Escolha
+Solitário por Castigo
+Exilado
+Patriota
+Globalista
+Estelar
+Dimensional
+Atemporal
+Mortalista
+Imortalista
+Reencarnacionista
+Fatalista
+Determinista
+Ambientalista
+Industrialista
+Tecno-Mago
+Tecnofóbico
+Tecnofílico
+Amante da Magia
+Odiador de Magia
+Caçador de Monstros
+Amigo de Monstros
+Protetor dos Fracos
+Devorador de Fortes
+Competitivo
+Cooperativo
+Individualista
+Coletivista
+Hierárquico
+Igualitário
+Monárquico
+Republicano
+Anarco-Capitalista
+Socialista Moral
+Feudalista
+Tribal
+Familiar
+Clanista
+Sectário
+Cismático
+Ortodoxo
+Heterodoxo
+Herege
+Inquisidor
+Penitente
+Pecador
+Absolvido
+Condenado
+Amaldiçoado
+Abençoado
+Destinado
+Acidental
+Caótico e Faminto
+Leal e Faminto
+Caótico e Cansado
+Neutro e Preguiçoso
+Leal e Obcecado
+Caótico e Criativo
+Neutro e Silencioso
+Leal e Barulhento
+Buscador de Glória
+Buscador de Conhecimento
+Buscador de Prazer
+Buscador de Dor
+Buscador de Paz
+Buscador de Guerra
+Buscador de Ouro
+Buscador de Almas
+Buscador de Vingança
+Buscador de Redenção
+Buscador de Verdade
+Buscador de Mentiras
+Protetor do Segredo
+Revelador de Segredos
+Guardião da Chave
+Quebrador de Correntes
+Forjador de Correntes
+Escravo do Destino
+Mestre do Destino
+Andarilho do Vazio
+Viajante dos Sonhos
+Habitante do Pesadelo
+Arquiteto do Caos
+Engenheiro da Ordem
+Juiz
+Jurado
+Advogado do Diabo
+Testemunha
+Vítima
+Algoz
+Sobrevivente
+Sacrificado
+Mártir
+Renegado
+Desertor
+Recruta
+Veterano
+Comandante
+Peão
+Rei
+Rainha
+Bobo da Corte
+Mendigo
+Eremita
+Peregrino
+Profeta Falso
+Profeta Verdadeiro
+Messias
+Anticristo
+Avatar da Natureza
+Avatar da Máquina
+Avatar da Morte
+Avatar da Vida
+Avatar do Tempo
+Avatar do Espaço
+Avatar do Vazio
+Avatar da Luz
+Avatar das Sombras
+Neutro Curioso
+Leal Chatice
+Caótico Engraçado
+Neutro Entediado
+Leal Agressivo
+Caótico Gentil
+Neutro Eficiente
+Pragmático Cruel
+Idealista Perigoso
+Realista Depressivo

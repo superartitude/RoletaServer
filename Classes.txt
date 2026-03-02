@@ -1,0 +1,334 @@
+Guerreiro
+Cavaleiro
+Paladino
+Bárbaro
+Berserker
+Ladino
+Assassino
+Arqueiro
+Caçador
+Mateiro
+Rastreador
+Mago
+Feiticeiro
+Bruxo
+Clérigo
+Sacerdote
+Monge
+Bardo
+Druida
+Xamã
+Alquimista
+Engenheiro
+Artífice
+Pistoleiro
+Mosqueteiro
+Pirata
+Corsário
+Samurai
+Ronin
+Ninja
+Shinobi
+Duelista
+Esgrimista
+Gladiador
+Legionário
+Guardião
+Sentinela
+Protetor
+Vingador
+Justiceiro
+Carrasco
+Algoz
+Algoz Negro
+Cavaleiro da Morte
+Cavaleiro Arcano
+Cavaleiro de Elite
+Cavaleiro Dragão
+Cavaleiro de Prata
+Cavaleiro de Ouro
+Lanceiro
+Alabardeiro
+Guardião de Escudo
+Mestre de Armas
+Mestre de Espadas
+Mestre de Machados
+Mestre de Maças
+Mestre de Chicotes
+Pugilista
+Lutador
+Brigão
+Capoeirista
+Sumotori
+Karateca
+Mestre de Kung Fu
+Arqueiro Arcano
+Arqueiro de Elite
+Besteiro
+Atirador de Elite
+Franco-Atirador
+Bombardeiro
+Pirotécnico
+Especialista em Armadilhas
+Sabotador
+Espião
+Infiltrador
+Gatuno
+Batedor
+Ladrão de Tumbas
+Caçador de Recompensas
+Mercenário
+Condotiero
+Estrategista
+General
+Marechal
+Nobre
+Príncipe
+Arauto
+Diplomata
+Orador
+Escriba
+Erudito
+Historiador
+Arqueólogo
+Investigador
+Detetive
+Ocultista
+Exorcista
+Inquisidor
+Templário
+Cruzado
+Monge da Guerra
+Monge da Paz
+Monge dos Elementos
+Monge da Sombra
+Dançarino da Morte
+Dançarino das Sombras
+Acrobata
+Malabarista
+Artista de Rua
+Menestrel
+Trovador
+Cantor de Guerra
+Tamborileiro
+Maestro Arcano
+Ilusionista
+Mentalista
+Hipnotizador
+Vidente
+Profeta
+Oráculo
+Astrólogo
+Astrônomo
+Alquimista de Combate
+Alquimista Curador
+Boticário
+Médico de Campo
+Cirurgião
+Necromante
+Mestre de Mortos-Vivos
+Invocador
+Conjurador
+Elementalista
+Mago do Fogo
+Mago da Água
+Mago do Ar
+Mago da Terra
+Mago do Gelo
+Mago do Trovão
+Mago da Luz
+Mago das Trevas
+Mago do Tempo
+Mago do Espaço
+Mago do Caos
+Mago da Ordem
+Mago rúnico
+Gravurista
+Tecelão de Magia
+Geomante
+Hidromante
+Piromante
+Aeromante
+Criomante
+Eletromante
+Fotomante
+Umbromante
+Biomante
+Oniro-Mante
+Cronomante
+Telepata
+Telecinético
+Psion
+Sensitivo
+Empata
+Médium
+Guardião da Floresta
+Guardião das Ondas
+Guardião das Chamas
+Guardião dos Ventos
+Domador de Feras
+Mestre de Matilha
+Falcoeiro
+Encantador de Serpentes
+Pastor de Monstros
+Druida da Lua
+Druida do Sol
+Druida dos Círculos
+Druida Urbano
+Herbalista
+Jardineiro Arcano
+Lenhador
+Mineiro de Cristais
+Ferreiro Místico
+Armeiro
+Joalheiro Arcano
+Gravador de Runas
+Encantador
+Desencantador
+Colecionador de Artefatos
+Caçador de Tesouros
+Explorador
+Nômade
+Peregrino
+Eremita
+Sábio
+Patriarca
+Matriarca
+Ancião
+Ancestral
+Espírito Guerreiro
+Projeção Astral
+Viajante Planar
+Guardião de Portais
+Exilado
+Prisioneiro de Guerra
+Escravo Liberto
+Rebelde
+Revolucionário
+Fanático
+Flagelante
+Penitente
+Santo
+Eremita da Montanha
+Caçador de Demônios
+Caçador de Vampiros
+Caçador de Bruxas
+Caçador de Dragões
+Matador de Gigantes
+Matador de Deuses
+Campeão do Povo
+Tirano
+Usurpador
+Rei Mendigo
+Nobre Decaído
+Cavaleiro Errante
+Escudeiro
+Aprendiz
+Mestre
+Grão-Mestre
+Patriarca das Runas
+Cultista
+Sacrificador
+Ritualista
+Invocador de Demônios
+Pactuário
+Possuído
+Médium de Espíritos
+Canalizador
+Totemista
+Dançarino de Chuva
+Guardião de Totens
+Mestre de Bestas
+Senhor das Feras
+Cavalgante
+Jóquei de Monstros
+Piloto de Máquinas
+Operário de Golems
+Mecânico Arcano
+Inventor de Explosivos
+Alquimista de Metais
+Transmutador
+Mago de Sangue
+Mago de Ossos
+Mago de Carne
+Escultor de Almas
+Tecelão de Destinos
+Cartomante
+Jogador
+Apostador
+Trapaceiro
+Charlatão
+Falsário
+Mestre dos Disfarces
+Ator
+Mímico
+Bobo da Corte
+Bufão
+Menestrel Negro
+Corretor de Almas
+Mercador Arcano
+Contrabandista
+Pirata Aéreo
+Capitão de Navio
+Timoneiro
+Navegador
+Cartógrafo
+Sobrevivente
+Ermitão das Sombras
+Monge Bêbado
+Mestre de Punhos
+Lutador de Rua
+Brutamontes
+Quebra-Crânios
+Executor
+Vigia Noturno
+Lanterna
+Guia Espiritual
+Pastor de Almas
+Ceifador
+Guardião de Cemitério
+Coveiro
+Embalsamador
+Múmia Desperta
+Cavaleiro Fantasma
+Espectro Guerreiro
+Sombra Assassina
+Lâmina Invisível
+Algoz de Almas
+Destruidor de Magia
+Devorador de Mana
+Sifão Arcano
+Bateria Viva
+Canalizador de Tempestades
+Mestre de Clima
+Senhor das Marés
+Rei da Montanha
+Voz do Deserto
+Caminhante do Gelo
+Sobrevivente do Vulcão
+Mestre de Selva
+Explorador de Cavernas
+Mergulhador de Combate
+Lâmina de Sangue
+Guerreiro Sagrado
+Guerreiro Profano
+Arauto da Guerra
+Arauto da Paz
+Mensageiro
+Espadachim Arcano
+Lâmina Espiritual
+Mestre de Katana
+Mestre de Cimitarra
+Mestre de Rapieira
+Mestre de Tridente
+Mestre de Foice
+Mestre de Mangual
+Mestre de Martelo
+Mestre de Escudo
+Tanque de Guerra
+Muralha Humana
+Berserker de Sangue
+Fúria da Natureza
+Avatar Elemental
+Escolhido dos Deuses
+Herói Lendário
