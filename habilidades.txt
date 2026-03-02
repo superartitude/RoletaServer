@@ -1,3 +1,253 @@
+Absorção de Impacto
+Adaptabilidade Aquática
+Adestramento de Enxames
+Alquimia de Sangue
+Alteração de Densidade
+Amaldiçoar Armas
+Amplificação de Som
+Anestesia Mística
+Animação de Sombras
+Anulação de Gravidade
+Apagar Rastros Etéreos
+Armadura de Conquilha
+Arquitetura Instantânea
+Arremesso de Almas
+Artilharia de Ossos
+Aspecto de Quimera
+Ataque de Ponto Cego
+Aura de Decomposição
+Aura de Esterilidade
+Aura de Fragilidade
+Aura de Imortalidade
+Aura de Rejuvenescimento
+Balística de Cristais
+Banquete de Medo
+Barreira de Pétalas
+Beijo do Vampiro
+Bio-Fusão
+Bio-Magnetismo
+Bloqueio de Chakras
+Bolha de Vácuo
+Bomba de Ectoplasma
+Braço Biônico Natural
+Buraco de Minhoca
+Cabelo Preênsis
+Caçador de Espectros
+Cadeias de Julgamento
+Calafrio Mortal
+Caligrafia de Selamento
+Caminhada no Vácuo
+Campo de Antimatéria
+Canalização de Ancestrais
+Canção da Loucura
+Canto de Sereia Reverso
+Cápsula de Hibernação
+Carga Elástica
+Casulo de Seda de Aço
+Catalisador de Pânico
+Cegueira Seletiva
+Centelha da Vida
+Chicote de Nervos
+Chuva de Mercúrio
+Cicatrização por Chamas
+Clarividência Tátil
+Clima Particular
+Clone de Argila
+Coagulação de Mana
+Colapso Ósseo
+Comando de Autômatos
+Combustão por Olhar
+Comunicação com Plantas
+Conexão com o Vazio
+Confusão Direcional
+Congelamento Temporal
+Conhecimento Instantâneo
+Consumo de Memórias
+Contágio Mental
+Contra-Feitiço Ativo
+Controle de Feromônios
+Controle de Inércia
+Controle de Pigmentação
+Convergência de Raios
+Convocar Montaria Etérea
+Coração de Engrenagem
+Corpo de Algas
+Corpo de Areia
+Corpo de Fumaça
+Corpo de Mercúrio
+Corrente de Espinhos
+Corrosão de Metais
+Criar Pontes de Luz
+Criogênese de Sangue
+Cristalização de Lágrimas
+Dança do Caos
+Dardo de Pensamento
+Decomposição Acelerada
+Deformação de Espaço
+Degustação de Magia
+Desintegração Molecular
+Deslocamento de Órgãos
+Despertar de Objetos
+Destilação de Venenos
+Detectar Mentiras
+Devolução de Dano
+Dilatação de Pupila
+Dimensão de Bolso
+Disparo de Esporos
+Dissolução em Água
+Distorção de Voz
+Divisão Celular
+Dobra de Papel Mística
+Domínio de Vidro
+Drenagem de Calor
+Eco de Batalha
+Efeito Borboleta
+Elo Vital Proibido
+Emissão de Radiação
+Empatia com Máquinas
+Encantamento de Fome
+Endurecimento de Ar
+Engenharia de Ossos
+Envelhecimento de Objetos
+Enxame de Olhos
+Equilíbrio de Almas
+Erosão Acelerada
+Escravidão por Contrato
+Escudo de Insetos
+Escudo de Rejeição
+Esculpir Carne
+Esfera de Isolamento
+Espelho de Realidade
+Espasmo Muscular
+Estase de Cura
+Estigma da Morte
+Estilhaçar Realidade
+Estímulo de Adrenalina
+Explosão de Cores
+Explosão de Penas
+Extração de Sombras
+Fabricação de Ilusões
+Falar com Pedras
+Falsa Morte
+Farpa Mental
+Fase Sólida
+Feixe de Neutrons
+Ferida Aberta
+Ferrofluido Vivo
+Fio de Ariadne
+Fixação de Alvos
+Flutuação de Peso
+Fogo Azul
+Fome de Mana
+Fonte de Juventude
+Forja de Sangue
+Fragmentação de Ego
+Frequência de Ressonância
+Frio Absoluto
+Fusão com Sombras
+Galvão-Choque
+Gatilho Psíquico
+Geometria Sagrada
+Germinação Acelerada
+Glândula de Gás
+Golpe de Vácuo
+Gotejamento de Ácido
+Gravidade Inversa
+Grito Ensurdecedor
+Guardião de Sonhos
+Harmonia das Esferas
+Hidro-Propulsão
+Hiperextensão
+Hipertrofia Instantânea
+Idade Variável
+Ignorar Atrito
+Iluminação Interior
+Implante de Memória
+Implosão de Vácuo
+Imunidade a Maldições
+Incinerar Ar
+Induzir Labirintite
+Infecção de Prata
+Inflamar Emoções
+Injeção de Ectoplasma
+Instinto de Presa
+Inteligência Coletiva
+Intercâmbio Equivalente
+Intoxicação por Mana
+Inversão de Polaridade
+Invocação de Armas
+Irradiação de Luz
+Jato de Tinta
+Julgamento Final
+Labirinto Mental
+Lâmina de Vento Negro
+Lança de Geada
+Laser de Plasma
+Laço de Sangue
+Leitura de DNA
+Lente de Foco
+Levitação Magnetizada
+Ligação de Nervos
+Língua de Serpente
+Liquefação de Solo
+Luta às Cegas
+Luz de Revelação
+Mago de Bolso
+Maldição de Ferro
+Mandíbula de Aço
+Manipulação de Cinzas
+Manipulação de Vapor
+Manto de Espelhos
+Maquinaria Biológica
+Marca de Caça
+Maré Baixa Mental
+Martelo de Ar
+Massacre Rítmico
+Materialização de Pesadelos
+Medo Incontrolável
+Memória de Outras Vidas
+Mente Labiríntica
+Metamorfose de Armas
+Meteorologia Pessoal
+Micro-Explosões
+Mimetismo de Água
+Mimetismo Vegetal
+Monólogo Interior Elevado
+Mordida Congelante
+Movimento em Zigue-Zague
+Mutação Adaptativa
+Nano-Reparo
+Necrose Ácida
+Névoa de Amnésia
+Nó Cósmico
+Núcleo de Energia
+Obscurecer Destino
+Olhar de Medusa Reverso
+Onda de Silêncio
+Orbe de Gravidade
+Ossos de Chumbo
+Pacto de Proteção
+Palavra de Poder: Atordoar
+Paralisia por Toque
+Partículas de Luz
+Passo de Formiga
+Patas de Aranha
+Pele de Borracha
+Percepção de Aura
+Perfume de Hipnose
+Pesadelo Lúcido
+Pés Magnéticos
+Pirotecnia
+Plasma Líquido
+Ponto de Ebulição
+Portal de Reflexo
+Possessão de Objetos
+Prisão de Cristal
+Projeção Holográfica
+Pulso de Vácuo
+Purificação de Sangue
+Quebra de Selos
+Raio de Desintegração
 Ataque Furtivo
 Sopro de Fogo
 Regeneração Celular
@@ -263,3 +513,4 @@ Aceleração Metabólica
 Visão do Futuro Próximo
 Memória de Antepassados
 Conhecimento Proibido
+
