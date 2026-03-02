@@ -166,7 +166,7 @@ def obter_agilidade(valor):
     if valor <= 90:
         return "Consegue viajar entre o espaço e o tempo."
     if valor <= 100:
-        return "Força de aceleração (flash)
+        return "Força de aceleração (flash)"
     if valor <= 200:
         return "onipresença"
     
@@ -222,6 +222,7 @@ if __name__ == "__main__":
     # O Token deve ser colocado nas variáveis de ambiente do Render
 
     bot.run(os.getenv('DISCORD_TOKEN'))
+
 
 
 
