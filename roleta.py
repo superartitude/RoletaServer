@@ -119,8 +119,14 @@ def obter_forca(nivel):
         return "Multiversal médio"
     if nivel <= 1000:
         return "Grande multiverso"
+    if nivel <= 1500:
+        return "Onipotência baixa"
+    if nivel <= 1700:
+        return "Onipotência Média"
+    if nivel <= 2000:
+        return "Onipotência Alta"
        
-sorteio_forca = randint(1, 1000)
+sorteio_forca = randint(1, 2000)
 pegarforca = obter_forca(sorteio_forca)
 
 def obter_QI(nivel):
@@ -183,7 +189,7 @@ async def roleta(ctx):
     canal = await bot.fetch_channel(ID_DO_CANAL)
     
     # Sorteios numéricos na hora
-    f_num = randint(1, 1000)
+    f_num = randint(1, 2000)
     q_num = randint(1, 1800)
     a_num = randint(1, 200)
     
@@ -222,6 +228,7 @@ if __name__ == "__main__":
     # O Token deve ser colocado nas variáveis de ambiente do Render
 
     bot.run(os.getenv('DISCORD_TOKEN'))
+
 
 
 
